@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "470671966715",
+    "project_id": "keepitg-5df56",
+    "storage_bucket": "keepitg-5df56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470671966715:android:7135c2fece832d723d0b5e",
+        "android_client_info": {
+          "package_name": "com.keepitg.keep_it_g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470671966715-dl8jmk6p17606b8p2l5tquflfi58j9or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIO9b1uqmuJ6J4rfbfn7etIa9iYHRcpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470671966715-dl8jmk6p17606b8p2l5tquflfi58j9or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470671966715-i96aa7iltiokgr4umeotc33s26tl7dfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keepitg.keepItg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

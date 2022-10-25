@@ -1,0 +1,44 @@
+name: keep_it_g
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cached_network_image: ^3.2.1
+  cloud_firestore: ^4.0.2
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.0.2
+  firebase_core: ^2.1.0
+  firebase_messaging: ^14.0.2
+  firebase_storage: ^11.0.2
+  flutter_secure_storage: ^5.0.2
+  http: ^0.13.5
+  path_provider: ^2.0.11
+  provider: ^6.0.3
+  image_picker: ^0.8.6
+  intl: ^0.17.0
+  i18n_extension: ^4.2.1
+  location: ^4.4.0
+  uuid: 3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
